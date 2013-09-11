@@ -4,7 +4,7 @@ Aditional Cookbook to set Chef Tags on Servers using Roles or any other cookbook
 
 Usage
 =====
-Include the icecast2 recipe on the role, how below:
+Include the tag recipe on the role, how below:
 
 Role - sample.rb
 -------------------------
